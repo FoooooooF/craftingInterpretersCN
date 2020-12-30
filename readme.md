@@ -10,9 +10,9 @@
 如果您想这样做，那就太好了！ 您可以在此处在仓库中提交错误，或者如果愿意的话可以发送拉取请求。 
 
 ## 章节
-- [前言](./00preface.md)
-- [欢迎](./10welcome.md)
-  - [介绍](./11introduction.md)
+- [0 前言](./00preface.md)
+- [1 欢迎](./10welcome.md)
+  - [1.1 介绍](./11introduction.md)
 ## 参考
 - [craftinginterpreters 电子书地址](https://craftinginterpreters.com/)
 - [craftinginterpreters Github地址](https://github.com/munificent/craftinginterpreters)
