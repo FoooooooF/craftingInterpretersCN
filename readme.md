@@ -13,6 +13,7 @@
 - [0 前言](./00_preface.md)
 - [1 欢迎](./10_welcome.md)
   - [1.1 介绍](./11_introduction.md)
+  - [1.2 范围](./11_introduction.md)
 ## 参考
 - [craftinginterpreters 电子书地址](https://craftinginterpreters.com/)
 - [craftinginterpreters Github地址](https://github.com/munificent/craftinginterpreters)
