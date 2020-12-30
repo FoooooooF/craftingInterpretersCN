@@ -5,15 +5,17 @@
 > 可以让我们从解释器的构建过程中对`Javascript`底层原理有更加深入的理解
 
 ## 贡献翻译
-&emsp;&emsp;在线写书并在完成之前将书放在那里绝对是最好的事情之一，就是像您这样的人会很友好地给我反馈，指出错别字以及发现其他错误或不清楚的文字。
+&emsp;&emsp;在线写书并在完成之前将书放在github绝对是最好的选择，就是像您这样的人会很友好地给我反馈，指出错别字以及发现其它错误。
 
-&emsp;&emsp;如果您想这样做，那就太好了！ 您可以在此处在仓库中提交错误，或者如果愿意的话可以发送拉取请求。 
+&emsp;&emsp;如果您想这样做，那就太好了！ 您可以在此处仓库中提交错误，或者fork我的仓库，一起来完善它。 
 
 ## 章节
 - [0 前言](./00_preface.md)
 - [1 欢迎](./10_welcome.md)
   - [1.1 介绍](./11_introduction.md)
-  - [1.2 范围](./11_introduction.md)
+  - [1.2 范围](./12_a-map-of-the-territory.md)
+  - [1.3 Lox 语言](./13_the-lox-language.md)
+- 更新中...
 ## 参考
 - [craftinginterpreters 电子书地址](https://craftinginterpreters.com/)
 - [craftinginterpreters Github地址](https://github.com/munificent/craftinginterpreters)
